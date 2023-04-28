@@ -4,7 +4,7 @@ ou
 git add -A
 
 adicionar comentário à branch que será commitada:
-git coomit -m "comentário"
+git commit -m "comentário"
 
 publicar no repositório todas as mudanças:
 git push origin main
